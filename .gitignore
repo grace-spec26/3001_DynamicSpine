@@ -1,0 +1,15 @@
+venv/
+.venv/
+env/
+.env/
+__pycache__/
+*.py[cod]
+.DS_Store
+*.pt
+*.pth
+*.ckpt
+.superpowers/
+_backups/
+outputs/
+uploads/
+data/
