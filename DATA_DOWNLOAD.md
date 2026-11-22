@@ -13,7 +13,7 @@ The result should look like this:
 
 ```text
 BIOF3001_Spine_Workshop/
-    data/
+    data/ (uploaded in moodle in .zip format)
         masks/
         meshes/
         merged_spines/
