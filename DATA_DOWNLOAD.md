@@ -61,7 +61,7 @@ The result should look like this:
 
 ```text
 BIOF3001_Spine_Workshop/
-    data/ (uploaded in moodle in .zip format)
+    data/ 
         masks/
         meshes/
         merged_spines/
